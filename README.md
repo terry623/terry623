@@ -1,4 +1,9 @@
 # Hi 👋, I'm Terry Lin
-### A frontend engineer from Taiwan
+
+A frontend engineer from Taiwan.
+
+👨‍💻 More about me at http://www.min-hao-lin.com
+
+📫 You can reach me at terry@gmail.com
 
 <a href="https://app.daily.dev/terry623"><img src="https://github.com/terry623/terry623/blob/main/devcard.svg" width="400" alt="Terry Lin's Dev Card"/></a>
