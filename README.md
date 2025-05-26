@@ -1,6 +1,5 @@
 # Hi 👋, I'm Terry Lin
 
-## 💼 About Me
 A software engineer based in Taiwan.
 
 ## 🛠️ Tech Stack
